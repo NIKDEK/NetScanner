@@ -1,0 +1,30 @@
+<div class="device">
+    <div class="icon">
+        <img src="icons/pc-01.svg" alt="">
+    </div>
+    <div class="info">
+        <label>
+            <b> Ipv4 Address:</b> 192.168.0.1
+        </label>
+        <label>
+            <b>MAC:</b> 00.00.00.00.00.00
+        </label>
+    </div>
+    <div class="services">
+        <label class="tag">
+            ftp:21
+        </label>
+        <label class="tag">
+            https:443
+        </label>
+        <label class="tag">
+            http:33
+        </label>
+        <label class="tag">
+            telnet:23
+        </label>
+    </div>
+    <div class="more">
+        <img src="icons/more-05.svg" alt="">
+    </div>
+</div>
